@@ -1,1 +1,3 @@
-# tournament-manager
+# Gerenciador de torneios
+
+Em construção...
